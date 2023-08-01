@@ -6,7 +6,7 @@
   <!-- <a href="https://stlscan.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">Stl Scan</h1>
+<h1 align="center">Stl Scan with Trimesh and PyTorch</h1>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/JustinLinKK/stl-sampling-with-trimesh?color=56BEB8">
@@ -38,7 +38,7 @@
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-Example_Result">Example Result</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-example result">Example Result</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
   <a href="https://github.com/JustinLinKK" target="_blank">Author</a>
 </p>
