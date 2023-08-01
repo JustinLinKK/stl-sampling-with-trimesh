@@ -38,8 +38,9 @@
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-Example_Result">Example Result</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Author</a>
+  <a href="https://github.com/JustinLinKK" target="_blank">Author</a>
 </p>
 
 <br>
@@ -85,10 +86,10 @@ $ python example.py
 
 ```
 
-## :checkered_flag: Example result ##
+## :checkered_flag: Example Result ##
 <p align="center">
- <img alt="Example Result of boundary sampling" src="https://github.com/JustinLinKK/stl-sampling-with-trimesh/blob/main/Boundary_sampling.png">
- <img alt="Example Result of interior sampling" src="https://github.com/JustinLinKK/stl-sampling-with-trimesh/blob/main/Interior_Sampling.png">
+ <img text="Example Result of boundary sampling" src="https://github.com/JustinLinKK/stl-sampling-with-trimesh/blob/main/Boundary_sampling.png">
+ <img text="Example Result of interior sampling" src="https://github.com/JustinLinKK/stl-sampling-with-trimesh/blob/main/Interior_Sampling.png">
 </p>
 
 
