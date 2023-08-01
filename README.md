@@ -38,7 +38,7 @@
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-example result">Example Result</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-example">Example</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
   <a href="https://github.com/JustinLinKK" target="_blank">Author</a>
 </p>
@@ -86,7 +86,7 @@ $ python example.py
 
 ```
 
-## :checkered_flag: Example Result ##
+## :checkered_flag: Example ##
 <p align="center">
  <img text="Example Result of boundary sampling" src="https://github.com/JustinLinKK/stl-sampling-with-trimesh/blob/main/Boundary_sampling.png">
  <img text="Example Result of interior sampling" src="https://github.com/JustinLinKK/stl-sampling-with-trimesh/blob/main/Interior_Sampling.png">
