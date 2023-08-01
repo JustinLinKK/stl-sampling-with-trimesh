@@ -87,8 +87,8 @@ $ python example.py
 
 ## :checkered_flag: Example result ##
 <p align="center">
- <img alt="Example Result of boundary sampling" src="https://img.shields.io/github/languages/top/JustinLinKK/stl-sampling-with-trimesh?color=56BEB8">
- <img alt="Example Result of interior sampling" src="https://img.shields.io/github/languages/top/JustinLinKK/stl-sampling-with-trimesh?color=56BEB8">
+ <img alt="Example Result of boundary sampling" src="https://github.com/JustinLinKK/stl-sampling-with-trimesh/blob/main/Boundary_sampling.png">
+ <img alt="Example Result of interior sampling" src="https://github.com/JustinLinKK/stl-sampling-with-trimesh/blob/main/Interior_Sampling.png">
 </p>
 
 
